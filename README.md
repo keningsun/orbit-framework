@@ -1,7 +1,7 @@
 # O.R.B.I.T.
 
 <div align="center">
-  <img src="docs/assets/orbit-logo.png" alt="O.R.B.I.T. Logo" width="400"/>
+  <img src="docs/assets/orbit-logo.png" alt="O.R.B.I.T. Logo" width="800"/>
   <h3>Orchestrated Responsive Business Intelligence Toolkit</h3>
   <p>An open-source multi-agent orchestration framework for building intelligent, collaborative ecosystems.</p>
 </div>
